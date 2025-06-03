@@ -33,10 +33,6 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrazhss_)
 
 
-#### Github Stats
-![Adika Zahran GitHub stats](https://github-readme-stats.vercel.app/api?username=adikazahran&show_icons=true&theme=radical)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adikazahran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
