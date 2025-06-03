@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello Guys! I'm Adika Zahran 👋
 
+
+![imgdika](img/img.jpeg)
 <!--
 **adikazahran/adikazahran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Study on **STMIK Jayakarta**
+- 🌱 Currently I am studying something related to data
+
+![Minions](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtMXkzZ3Z3dGRrcmdlcHZ5dnUydzZwZTBzOXVtYWhnZDI1bWw4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TXJiSN8vCERuE/giphy.gif)
